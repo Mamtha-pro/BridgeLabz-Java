@@ -1,56 +1,41 @@
-BridgeLabz Java Training Program – Learning Summary
+BridgeLabz-Training
+This repository tracks my daily learning, hands-on practice, and submissions during the BridgeLabz Java Training Program.
 
-This repository documents my daily learning, hands-on practice, and submissions during the BridgeLabz Java Training Program.
+Set up the complete development environment by installing VS Code, Visual Studio, IntelliJ IDEA, Eclipse IDE, and Git, and verified configurations.
 
-Development Environment Setup
+• Learned Java fundamentals including features of Java, JDK, JVM, JRE, execution flow, data types, variables, and basic syntax.
 
-Installed VS Code, Visual Studio, IntelliJ IDEA, Eclipse IDE, Notepad++, and Git
-Verified configurations for development and version control
+• Practiced basic Java programs, understood program structure, and used Git commands (init, add, commit, push) to upload programs to GitHub.
 
-Java Fundamentals
+• Worked on practice problems covering Strings, basic string operations, Arrays, and input/output programs using terminal commands.
 
-Learned features of Java, JDK, JVM, JRE, execution flow
-Studied data types, variables, and basic syntax
-Practiced basic Java programs
+• Focused on array concepts including one-dimensional arrays, initialization, traversal, memory allocation, and basic problem solving.
 
-Git & Version Control
+• Practiced Java Methods including defining methods, calling methods, passing parameters, return types, and basic method-based programs.
 
-Used Git commands: init, add, commit, push
-Worked with branching, merging, releases, hotfixes, and tagging
+• Solved Programming Elements Level 1 and Level 2 problems using user-defined input, command-line input, and real-world scenarios.
 
-Strings, Arrays, and Basic Programming
+• Practiced Control Flow concepts including conditional statements, loops (for, while, do-while), switch-case, and Level 1 to Level 3 problems.
 
-Practiced string operations and handling
-Learned one-dimensional and two-dimensional arrays
-Worked on input/output and logical problem solving
+• Practiced Java Arrays with Level 1 and Level 2 problems involving one-dimensional and two-dimensional arrays and logical problem solving.
 
-Methods and Problem Solving
+• Practiced Java Methods including built-in functions and string handling, and organized code using a branch-based Git workflow.
 
-Learned method creation, parameters, and return types
-Solved Level 1 and Level 2 problems using real-world scenarios
+• Installed and set up Notepad++, Eclipse IDE, and JDK, and revised the basics of Java.
 
-Control Flow
+• Studied Object-Oriented Programming concepts including Java classes and objects.
 
-Studied if-else, loops (for, while, do-while), switch-case
-Solved Level 1 to Level 3 problems
+• Learned Java constructors, instance vs class variables, access modifiers, and completed array practice submissions.
 
-Object-Oriented Programming (OOP)
+• Practiced Git workflow basics including feature branches, merges, releases, hotfixes, tagging, and pushing branches to GitHub.
 
-Learned classes and objects
-Studied constructors, variables, and access modifiers
-Covered inheritance, polymorphism, encapsulation
-Learned interfaces and abstract classes
+• Studied this, static, final keywords and instanceof operator, and completed Level 1 lab practice.
 
-Object-Oriented Design
+• Learned Object-Oriented Design Principles including Class Diagrams, Object Diagrams, and Sequence Diagrams.
 
-Learned Class Diagrams, Object Diagrams, and Sequence Diagrams
+• Studied Inheritance including single-level, multilevel, and hierarchical inheritance, method overriding, constructor inheritance, and polymorphism.
 
-Java Keywords and Operators
+• Learned Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
 
-Studied this, static, final, and instanceof
-
-Data Structures
-
-Implemented Singly Linked List
-Implemented Doubly Linked List
-Implemented Circular Linked List
+• 14-Jan-2026 (Wednesday):
+Submitted Data Structures work on Linked Lists including Single, Double, and Circular Linked Lists.
