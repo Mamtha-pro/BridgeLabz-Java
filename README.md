@@ -37,5 +37,4 @@ Set up the complete development environment by installing VS Code, Visual Studio
 
 • Learned Encapsulation, Polymorphism, Interfaces, and Abstract Classes.
 
-• 14-Jan-2026 (Wednesday):
-Submitted Data Structures work on Linked Lists including Single, Double, and Circular Linked Lists.
+• Submitted Data Structures work on Linked Lists including Single, Double, and Circular Linked Lists.
