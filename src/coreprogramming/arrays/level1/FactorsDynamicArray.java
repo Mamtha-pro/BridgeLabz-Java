@@ -1,4 +1,4 @@
-package coreprogramming.level1;
+package coreprogramming.arrays.level1;
 
 import java.util.Scanner;
 
@@ -19,7 +19,7 @@ public class FactorsDynamicArray {
                     for(int j= 0; j<=index;j++) {
                         temp[j] = factory[i];
                     }
-                        factory = temp;
+                    factory = temp;
 
                 }
                 factory[index] = i;
@@ -32,3 +32,4 @@ public class FactorsDynamicArray {
         }
     }
 }
+

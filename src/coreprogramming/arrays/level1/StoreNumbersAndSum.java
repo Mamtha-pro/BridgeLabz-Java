@@ -1,4 +1,4 @@
-package coreprogramming.level1;
+package coreprogramming.arrays.level1;
 
 import java.util.Scanner;
 
@@ -15,9 +15,10 @@ public class StoreNumbersAndSum {
             arr[i] = num;
         }
         for(int j= 0 ;j<10;j++) {
-           // System.out.println(arr[j]);
+            // System.out.println(arr[j]);
             total = (int) (total + arr[j]);
         }
         System.out.println("The sum of total number is "+ total);
     }
 }
+

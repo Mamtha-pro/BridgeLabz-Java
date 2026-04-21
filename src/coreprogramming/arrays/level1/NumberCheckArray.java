@@ -1,4 +1,4 @@
-package coreprogramming.level1;
+package coreprogramming.arrays.level1;
 
 import java.util.Scanner;
 
@@ -25,13 +25,14 @@ public class NumberCheckArray {
                 System.out.println(Number[i]+" "+"is "  +"zero");
             }
         }
-     if(Number[0]==Number[4]){
-         System.out.println("First and last are equal");
-     }else if(Number[0]>Number[4]){
-         System.out.println("First is greater");
-     }else{
-         System.out.println("Last is greater");
-     }
+        if(Number[0]==Number[4]){
+            System.out.println("First and last are equal");
+        }else if(Number[0]>Number[4]){
+            System.out.println("First is greater");
+        }else{
+            System.out.println("Last is greater");
+        }
 
     }
 }
+

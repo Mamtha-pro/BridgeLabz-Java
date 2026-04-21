@@ -1,4 +1,4 @@
-package coreprogramming.level1;
+package coreprogramming.arrays.level1;
 import java.util.Scanner;
 
 public class MeanHeight {
@@ -17,3 +17,4 @@ public class MeanHeight {
     }
 
 }
+
